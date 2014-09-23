@@ -1,0 +1,213 @@
+.html style {
+	background-image: url("background7.jpg");
+	background-repeat: no-repeat;
+}
+body {
+	width: auto;
+	height: auto;
+	margin-left: 100px;
+	margin-right: 100px;
+	margin-top: 20px;
+	position: center;
+}
+h3 {
+	text-transform: uppercase;
+	font-size: 25px;
+	width: auto;
+	color: white;
+	text-transform: uppercase;
+	border: 2px solid;
+	border-radius: 25px;
+	background-color: black;
+	opacity: 0.7;
+	border-color: #7AFF85;
+}
+.container0 {
+	text-align: center;
+}
+.photo li {
+	display: inline-block;
+}
+.container1 {
+	width: auto;
+	height: auto;
+	margin-left: -8px;
+	margin-right: -8px;
+	margin-top: -18px;
+}
+.nav {
+	padding-top: 15px;
+	padding-bottom: 15px;
+	padding-left: 15px;
+	padding-right: 15px;
+	text-align: center;
+	height: auto;
+	width: auto;
+}
+.nav li {
+	display: inline-block;
+	font-family: "Book Antiqua", serif;
+	width: 275px;
+	height: 30px;
+	font-size: 25px;
+	color: #7AFF85;
+	text-transform: uppercase;
+	border: 2px solid;
+	border-radius: 25px;
+	background-color: black;
+	opacity: 0.7;
+}
+a:link {
+	color: white;
+	text-decoration: none;
+}
+a:visited {
+	color: white;
+	text-decoration: none;
+}
+a:hover {
+	color: none;
+	text-decoration: none;
+}
+a:active {
+	color: white;
+	text-decoration: none;
+}
+.container2 {
+	width: auto;
+	height: 800px;
+	text-align: center;
+	margin-left: -8px;
+	margin-right: -8px;
+	margin-top: -18px;
+}
+.landing {
+	height: auto;
+	width: auto;
+	text-align: center;
+	padding-top: 40px;
+	padding-bottom: 40px;
+	color: transparent;
+	background-color: black;
+	opacity: 0.7;
+	border-radius: 25px;
+	border:2px solid #7AFF85;
+}
+.container3 {
+	width: auto;
+	height: 800px;
+	text-align: center;
+	margin-left: -8px;
+	margin-right: -8px;
+	margin-top: -18px;
+}
+.container3 p {
+	display: inline-block;
+	text-align: center;
+}
+.container3 img {
+	border:2px solid #7AFF85;
+	margin-right: 10px;
+	float: left;
+}
+.container4 {
+	width: auto;
+	height: 800px;
+	text-align: center;
+	margin-left: -8px;
+	margin-right: -8px;
+	margin-top: -18px;
+}
+.container4 table {
+	display: inline-block;
+	width: 1165px;
+	height: 475px;
+}
+.container4 td {
+	text-align: center;
+	width: 460px;
+	height: 475px;
+	font-family: "Book Antiqua", serif;
+	text-transform: none;
+	font-size: 15px;
+	border-color: #7AFF85;
+	border-radius: 25px;
+	background-color: black;
+	opacity: 0.7;
+	border:2px solid #7AFF85;
+	color: white;
+	vertical-align: top;
+}
+.container4 p  {
+	display: inline-block;
+	text-align: center;
+}
+.container4 img {
+	border:2px solid #7AFF85;
+}
+.text {
+	color: white;
+	font-family: "Book Antiqua", serif;
+	font-size: 15px;
+	background-color: black;
+	opacity: 0.7;
+	border-radius: 25px;
+	border:2px solid #7AFF85;
+	padding-top: 15px;
+	padding-left: 15px;
+	padding-right: 15px;
+	padding-bottom: 15px;
+}
+.buynow {
+	border:2px solid #7AFF85;
+	border-radius: 25px;
+	width: 100px;
+}
+.container5 {
+	width: auto;
+	height: 800px;
+	text-align: center;
+	margin-left: -8px;
+	margin-right: -8px;
+	margin-top: -18px;
+}
+.contact  {
+	width: auto;
+	height: auto;
+	border-radius: 25px;
+	background-color: black;
+	opacity: 0.7;
+	border:2px solid #7AFF85;
+	padding-top: 15px;
+	padding-bottom: 15px
+}
+.footer {
+	text-align: center;
+	font-family: "Book Antiqua", serif;
+	font-weight: bold;
+	font-size: 15px;
+}
+.button { 
+	text-align: center;
+	border-style: solid;
+	border-width: 2px;
+	text-transform: uppercase;
+	width:100px;
+	border-radius: 25px;
+	background-color: black;
+	opacity: 0.7;
+	color: #7AFF85;
+	display: inline-block;
+}
+.home {
+	border-style: solid;
+	border-width: 2px;
+	text-transform: uppercase;
+	width:100px;
+	border-radius: 25px;
+	background-color: black;
+	opacity: 0.7;
+	color: #7AFF85;
+	text-align: center;
+	display: inline-block;
+}
